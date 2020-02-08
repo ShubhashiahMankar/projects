@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+* {
+  box-sizing: border-box;
+}
+.header
+{
+	border: 2px solid black;
+  	padding: 10px;
+	text-align:center;
+	font-family:"Times New Roman",Times,serif;
+}
+.row
+{
+	padding:20px;
+  width: 25%;
+  float: left;
+}
+.main {
+  width: 75%;
+  float: left;
+}
