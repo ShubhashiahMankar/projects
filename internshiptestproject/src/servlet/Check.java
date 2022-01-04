@@ -35,7 +35,7 @@ public class Check extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException 
 	{
-		System.out.println("sgsgdfgfd");
+		//System.out.println("sgsgdfgfd");
 		String id,ps,ldtm,typ,unm,d,status = "";
 		int m;
 		id=request.getParameter("txt");
